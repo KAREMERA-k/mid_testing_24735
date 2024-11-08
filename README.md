@@ -26,5 +26,7 @@ The project does not include a graphical UI and instead uses Java User Input (Sc
    - Retrieve a location’s province by village.
    - Count books in specific rooms and find rooms with the fewest books.
 
-## Project Structure
+![Screenshot 2024-11-08 134944](https://github.com/user-attachments/assets/8ef9de2c-7a1f-4875-a196-819440ddcc43)
+![Screenshot 2024-11-08 134842](https://github.com/user-attachments/assets/ef25c605-ff70-4af1-bd30-98ab7ee4f08b)
+
 
